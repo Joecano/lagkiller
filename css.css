@@ -60,7 +60,7 @@
   height: 6px;
   width: 6px;
   background: #52289c;
-  opacity: 0;
+  opacity: 5;
 }
 #cssmenu ul li a:before {
   content: "";
