@@ -46,11 +46,7 @@
   transition: color .25s;
 }
 #cssmenu ul li a:hover {
-<<<<<<< HEAD
   color: #52289c;
-=======
-  color: white;
->>>>>>> origin/master
 }
 #cssmenu ul li a:hover:before {
   width: 100%;
@@ -63,13 +59,8 @@
   top: 19px;
   height: 6px;
   width: 6px;
-<<<<<<< HEAD
   background: #52289c;
-  opacity: 1;
-=======
-  background: #EA7AF0;
-  opacity: .75;
->>>>>>> origin/master
+  opacity: 0;
 }
 #cssmenu ul li a:before {
   content: "";
@@ -79,7 +70,7 @@
   bottom: 0;
   height: 3px;
   width: 0;
-  background: white;
+  background: #23a35a;
   -webkit-transition: width .25s;
   -moz-transition: width .25s;
   -ms-transition: width .25s;
