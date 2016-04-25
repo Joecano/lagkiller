@@ -122,10 +122,7 @@
 }
 html { 
   background: url("http://vignette3.wikia.nocookie.net/slitherio/images/5/50/Wiki-background/revision/latest?cb=20160404014617&path-prefix=es") no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+    background-repeat: repeat;
 }
 #logo {
 	width:75%;
@@ -162,4 +159,12 @@ font-size:50px;
 }
 span.purpel {
 color:#52289c;
+}
+#scrn {
+	width:50%;
+	height:auto;
+	display:block;
+	margin:0 auto;
+	margin-top:5%;
+    
 }
